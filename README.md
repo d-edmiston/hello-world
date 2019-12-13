@@ -1,4 +1,4 @@
-# hello-world
-Hello, world!
 # Hello, edits...
 Here are some edits. Enjoy.
+
+I also deleted the original heading and body paragraph.
